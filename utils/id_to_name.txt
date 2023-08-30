@@ -1,0 +1,10 @@
+n01440764 tench
+n02102040 dog
+n02979186 cassetteplayer
+n03000684 chainsaw
+n03028079 church
+n03394916 frenchhorn
+n03417042 garbagetruck
+n03425413 gaspump
+n03445777 golfball
+n03888257 parachute
