@@ -20,7 +20,7 @@ import torch.backends.cudnn as cudnn
 from torchvision.models import vit_b_16, ViT_B_16_Weights
 cudnn.benchmark = True
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
-
+# add seed!
 
 from utils import CustomImageDataset_imagenette, train_model
 
